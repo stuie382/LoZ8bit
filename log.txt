@@ -1,0 +1,758 @@
+2017-05-21 09:38:31 [main] com.dag.ZeldaPlayWindow.<init>()
+TRACE: Enter ZeldaPlayWindow
+2017-05-21 09:38:31 [main] com.dag.map.Map.<init>()
+TRACE: Enter Map
+2017-05-21 09:38:31 [Thread-10] com.dag.entity.monster.MonsterFactory.<init>()
+TRACE: Made a monster factory
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.<init>()
+TRACE: Made a monster factory
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+TRACE: Enter modLoad
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 27
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 22
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 20
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 22
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 24
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 25
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 31
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 25
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 26
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 28
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 29
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 29
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 29
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 30
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 10
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 11
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 28
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 29
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 29
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 29
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 30
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 14
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 15
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 28
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 29
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 29
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 29
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 30
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 36
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 36
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 29
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 36
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 36
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 28
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 29
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 29
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 29
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 30
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 35
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 28
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 29
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 29
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 29
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 30
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 32
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 33
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 33
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 33
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 34
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 17
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 17
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 17
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 17
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 17
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 17
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 17
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 17
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 17
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 17
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 17
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 17
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 3
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 19
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 1
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 21
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some tile data: 2
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some monster data: none
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some monster data: none
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some monster data: none
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some monster data: none
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some monster data: none
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some monster data: none
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some monster data: none
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some monster data: none
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some monster data: none
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+DEBUG: Loaded some monster data: none
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.chooseMonster()
+DEBUG: Loading a monster: none
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.chooseMonster()
+DEBUG: Loading a monster: none
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.chooseMonster()
+DEBUG: Loading a monster: none
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.chooseMonster()
+DEBUG: Loading a monster: none
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.chooseMonster()
+DEBUG: Loading a monster: none
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.chooseMonster()
+DEBUG: Loading a monster: none
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.chooseMonster()
+DEBUG: Loading a monster: none
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.chooseMonster()
+DEBUG: Loading a monster: none
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.chooseMonster()
+DEBUG: Loading a monster: none
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.chooseMonster()
+DEBUG: Loading a monster: none
+2017-05-21 09:38:32 [main] com.dag.entity.monster.MonsterFactory.monLoad()
+TRACE: Exit monLoad
+2017-05-21 09:38:35 [main] com.dag.ZeldaPlayWindow.<init>()
+TRACE: Exit ZeldaPlayWindow
